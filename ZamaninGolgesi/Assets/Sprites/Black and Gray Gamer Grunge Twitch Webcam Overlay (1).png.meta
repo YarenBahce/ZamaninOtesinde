@@ -1,0 +1,396 @@
+fileFormatVersion: 2
+guid: 177c1cdcf60729741867e93f86824ab3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3475741792915285572
+    second: Black and Gray Gamer Grunge Twitch Webcam Overlay (1)_0
+  - first:
+      213: 2999508515966970816
+    second: Black and Gray Gamer Grunge Twitch Webcam Overlay (1)_1
+  - first:
+      213: -274068455214435221
+    second: Black and Gray Gamer Grunge Twitch Webcam Overlay (1)_2
+  - first:
+      213: -1324677966873595022
+    second: Black and Gray Gamer Grunge Twitch Webcam Overlay (1)_3
+  - first:
+      213: -4707729299902734982
+    second: Black and Gray Gamer Grunge Twitch Webcam Overlay (1)_4
+  - first:
+      213: 1989509189100685416
+    second: Black and Gray Gamer Grunge Twitch Webcam Overlay (1)_5
+  - first:
+      213: 3518974030690289938
+    second: Black and Gray Gamer Grunge Twitch Webcam Overlay (1)_6
+  - first:
+      213: 8925659042655010461
+    second: Black and Gray Gamer Grunge Twitch Webcam Overlay (1)_7
+  - first:
+      213: 3159842811458898802
+    second: Black and Gray Gamer Grunge Twitch Webcam Overlay (1)_8
+  - first:
+      213: -2407303717231408717
+    second: Black and Gray Gamer Grunge Twitch Webcam Overlay (1)_9
+  - first:
+      213: -6224991085687600276
+    second: Black and Gray Gamer Grunge Twitch Webcam Overlay (1)_10
+  - first:
+      213: 8334686447608981091
+    second: Black and Gray Gamer Grunge Twitch Webcam Overlay (1)_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 320
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Black and Gray Gamer Grunge Twitch Webcam Overlay (1)_0
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 678
+        width: 196
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb91e4e214fa3cfc0800000000000000
+      internalID: -3475741792915285572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black and Gray Gamer Grunge Twitch Webcam Overlay (1)_1
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 678
+        width: 199
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb68fa6a1560a920800000000000000
+      internalID: 2999508515966970816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black and Gray Gamer Grunge Twitch Webcam Overlay (1)_2
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 675
+        width: 174
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64bdca2130523cf0800000000000000
+      internalID: -274068455214435221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black and Gray Gamer Grunge Twitch Webcam Overlay (1)_3
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 680
+        width: 176
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27376b6586ccd9de0800000000000000
+      internalID: -1324677966873595022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black and Gray Gamer Grunge Twitch Webcam Overlay (1)_4
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 337
+        width: 184
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d5994f429caaeb0800000000000000
+      internalID: -4707729299902734982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black and Gray Gamer Grunge Twitch Webcam Overlay (1)_5
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 340
+        width: 172
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868c8bd01182c9b10800000000000000
+      internalID: 1989509189100685416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black and Gray Gamer Grunge Twitch Webcam Overlay (1)_6
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 340
+        width: 175
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2198e119c38e5d030800000000000000
+      internalID: 3518974030690289938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black and Gray Gamer Grunge Twitch Webcam Overlay (1)_7
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 339
+        width: 182
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e74bfeb9f4edb70800000000000000
+      internalID: 8925659042655010461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black and Gray Gamer Grunge Twitch Webcam Overlay (1)_8
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 10
+        width: 174
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b4413ab440adb20800000000000000
+      internalID: 3159842811458898802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black and Gray Gamer Grunge Twitch Webcam Overlay (1)_9
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 7
+        width: 173
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9c1fb060a879ed0800000000000000
+      internalID: -2407303717231408717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black and Gray Gamer Grunge Twitch Webcam Overlay (1)_10
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 7
+        width: 169
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b0e97c6936c99a0800000000000000
+      internalID: -6224991085687600276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black and Gray Gamer Grunge Twitch Webcam Overlay (1)_11
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 10
+        width: 205
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366eeff3a21caa370800000000000000
+      internalID: 8334686447608981091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
